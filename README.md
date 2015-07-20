@@ -1,0 +1,3 @@
+# Lemipc
+
+Project about C shared memory, ~~dumb~~ IA ninja...
